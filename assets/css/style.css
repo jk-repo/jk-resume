@@ -389,4 +389,11 @@ body {
   .foot-credit p a {
     color: #882121; }
 
+.list li {
+  list-style: disc;
+  padding-left: .5rem;
+  margin-left: 2rem;
+  padding-bottom: .7rem;
+}
 /*# sourceMappingURL=style.css.map */
+
